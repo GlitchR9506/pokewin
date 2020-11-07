@@ -1,0 +1,289 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(467,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (GSG.vcxproj, Launcher.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  main.cpp
+F:\repos\pokewin\src\h\tilemap.hpp(96,2): warning C4091: 'static ': ignored on left of 'TileMap2' when no variable is declared
+F:\repos\pokewin\src\h\tilemap.hpp(26,75): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+F:\repos\pokewin\src\h\tilemap.hpp(26,59): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+F:\repos\pokewin\src\h\tilemap.hpp(27,81): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+F:\repos\pokewin\src\h\tilemap.hpp(27,65): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+F:\repos\pokewin\src\h\tilemap.hpp(28,87): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+F:\repos\pokewin\src\h\tilemap.hpp(28,65): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+F:\repos\pokewin\src\h\tilemap.hpp(29,81): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+F:\repos\pokewin\src\h\tilemap.hpp(29,59): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+F:\repos\pokewin\src\h\tilemap.hpp(32,78): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+F:\repos\pokewin\src\h\tilemap.hpp(32,61): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+F:\repos\pokewin\src\h\tilemap.hpp(33,84): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+F:\repos\pokewin\src\h\tilemap.hpp(33,67): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+F:\repos\pokewin\src\h\tilemap.hpp(34,90): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+F:\repos\pokewin\src\h\tilemap.hpp(34,67): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+F:\repos\pokewin\src\h\tilemap.hpp(35,84): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+F:\repos\pokewin\src\h\tilemap.hpp(35,61): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+F:\repos\pokewin\src\h\tilemap.hpp(65,67): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+F:\repos\pokewin\src\h\tilemap.hpp(65,51): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+F:\repos\pokewin\src\h\tilemap.hpp(66,73): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+F:\repos\pokewin\src\h\tilemap.hpp(66,57): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+F:\repos\pokewin\src\h\tilemap.hpp(67,79): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+F:\repos\pokewin\src\h\tilemap.hpp(67,57): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+F:\repos\pokewin\src\h\tilemap.hpp(68,73): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+F:\repos\pokewin\src\h\tilemap.hpp(68,51): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+F:\repos\pokewin\src\h\tilemap.hpp(71,70): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+F:\repos\pokewin\src\h\tilemap.hpp(71,53): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+F:\repos\pokewin\src\h\tilemap.hpp(72,76): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+F:\repos\pokewin\src\h\tilemap.hpp(72,59): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+F:\repos\pokewin\src\h\tilemap.hpp(73,82): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+F:\repos\pokewin\src\h\tilemap.hpp(73,59): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+F:\repos\pokewin\src\h\tilemap.hpp(74,76): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+F:\repos\pokewin\src\h\tilemap.hpp(74,53): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+F:\repos\pokewin\src\h\editor.hpp(6,58): warning C4018: '<=': signed/unsigned mismatch
+F:\repos\pokewin\src\h\editor.hpp(7,62): warning C4018: '<=': signed/unsigned mismatch
+F:\repos\pokewin\src\h\GUI.hpp(6,69): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+F:\repos\pokewin\src\h\GUI.hpp(6,49): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+F:\repos\pokewin\src\main.cpp(75,92): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+F:\repos\pokewin\src\main.cpp(75,58): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+F:\repos\pokewin\src\main.cpp(154,37): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+F:\repos\pokewin\src\main.cpp(157,37): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+F:\repos\pokewin\src\main.cpp(158,37): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+F:\repos\pokewin\src\main.cpp(173,81): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+F:\repos\pokewin\src\main.cpp(173,63): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+F:\repos\pokewin\src\main.cpp(175,78): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+F:\repos\pokewin\src\main.cpp(175,58): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+  pokewin.vcxproj -> F:\repos\pokewin\Debug\LE.exe
