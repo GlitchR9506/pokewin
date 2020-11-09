@@ -3,7 +3,7 @@ SDL and SFML implementations of PRET PokeEmerald Assets
 
 Building WINmap requires SFML
 
-Building PokeWIN requires SDL (CSFML is just fucking retarded)
+Building PokeWIN requires CSFML (SFML for C)
 
 Documentation can be found in the files themselves, /docs/, or the wiki if I set it up
 

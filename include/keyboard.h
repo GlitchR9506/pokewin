@@ -1,31 +1,14 @@
-#ifndef KEYB_H
-#define KEYB_H
+#ifndef KEYBOARD_H
+#define KEYBOARD_H
 
 void WIN_ReadKeys(int INPUT) {	//0=none; 1=Keydown; 2=keyup
 	
 	if (INPUT = 1) {
-	switch (event.key.keysym.sym) {
-					
-					
-		case SDLK_LEFT:
-						
+		if (event.key.code == sfKeyLeft) {
 			STATUS = "Left";
-			break;
-		case SDLK_RIGHT:
-			STATUS = "Right";
-			break;
-		case SDLK_UP:
-			STATUS = "Up";
-			break;
-		case SDLK_DOWN:
-			STATUS = "Down";
-			break;
-
-		default:
-			//GAME_RUNNING = false;
-			break;
-			
 		}
+	
+	
 	}
 	
 	if (INPUT = 2) {
@@ -35,4 +18,4 @@ void WIN_ReadKeys(int INPUT) {	//0=none; 1=Keydown; 2=keyup
 	}
 }
 
-#endif //KEYB_H
+#endif //KEYBOARD_H

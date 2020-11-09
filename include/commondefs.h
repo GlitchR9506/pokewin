@@ -27,24 +27,29 @@ static int TILE_SIZEY=16;
 
 #ifdef DEBUG
 
-static int ResolutionX=480;
-static int ResolutionY=368;
+static int ResX=480;
+static int ResY=368;
+
+static sfVideoMode mode = {480, 368, 32};
 
 #else
 	
-static int ResolutionX=480;
-static int ResolutionY=320;
+static int ResnX=480;
+static int ResY=320;
+
+static sfVideoMode mode = {480, 320, 32};
 	
 #endif
+
+
 static char* STATUS = "Loading...";
 //static vec2i WINDOW_RES; WINDOW_RES.x=240; WINDOW_RES.y=160;
 
 static bool GAME_RUNNING = true;
 static bool gSoftResetDisabled = false;
 
-static SDL_Window* window = NULL;
-static SDL_Surface* screenSurface = NULL;
-static SDL_Event event;
+static sfRenderWindow* window;
+static sfEvent event;
 
 #include "defs/playerdefs.h"
 
