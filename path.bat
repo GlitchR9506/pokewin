@@ -1,0 +1,1 @@
+SET path=F:\mingw64\bin;%path%

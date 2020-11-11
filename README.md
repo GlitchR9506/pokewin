@@ -14,3 +14,7 @@ Notes:
 The Structure of this program might change
 
 The Structure and Functions should be similar enough to PRETs and GFs PokeEmeralds that a programmer in that should be able to jump into it.
+
+Any requirements besides SFML should be bundled in the repo and non-os-dependent
+
+C-style programming is encouraged although C++ is required at some points
