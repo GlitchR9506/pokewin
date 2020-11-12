@@ -67,6 +67,7 @@ int main() {
 
     //GUIinit();
     //draw();
+
     while (window.isOpen()) {
         //drawUpdate();
 
@@ -111,8 +112,9 @@ int main() {
 		WINDOW_TITLE = TITLE + " " + std::to_string(GAMEVER_RELEASE) + "." + std::to_string(GAMEVER_BETA) + "." + std::to_string(GAMEVER_ALPHA) + "; " + STATUS;
 		window.setTitle(WINDOW_TITLE);
 		
-                sf::FloatRect visibleArea(0.f, 0.f, event.size.width, event.size.height);
-                window.setView(sf::View(visibleArea));
+        //sf::FloatRect visibleArea(0.f, 0.f, event.size.width, event.size.height);			//Enable For=========
+        //window.setView(sf::View(visibleArea));											//==========Acid Trip
+		
         map.update(sf::Vector2u(16, 16), level, TilesX, TilesY);
         //Draw Stuff
         GUIdraw();
